@@ -113,7 +113,7 @@ video{
     img:hover{
         transform:none;
     }
-    button{
+    .top{
         bottom:20px;
         right:20px;
         width:60px;
@@ -127,11 +127,12 @@ video{
     }
 
     h1{
-        font-size: 200%;
+        font-size: 180%;
     }
 
     article{
-        width:90vw;
+        width:100vw;
+        padding:20px;
     }
     footer > p{
         width:90vw;
