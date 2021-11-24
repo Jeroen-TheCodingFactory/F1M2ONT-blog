@@ -21,7 +21,7 @@ main{
     max-width:60vw;
     animation-name: popup;
     animation-duration: 0.8s;
-    animation-delay:2s;
+    animation-fill-mode: backwards;
 }
 
 
