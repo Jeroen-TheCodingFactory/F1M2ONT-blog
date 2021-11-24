@@ -87,7 +87,7 @@ article{
     position:relative;
 }
 
-.box > section{
+.box section{
     position:absolute;
     top:0;
     left:0;
@@ -104,7 +104,7 @@ article{
     flex-shrink: 0;
 }
 
-.box > section > p {
+.box  section > p {
     margin-bottom:0;
 }
 
