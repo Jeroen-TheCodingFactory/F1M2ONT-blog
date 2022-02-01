@@ -107,6 +107,28 @@ De 5e les staat in het teken van het combineren van alle leerstof in de eerdere 
 https://blog.mediacollege.work
 
 ## Resources
-1. Validator voor het valideren van de HTML => https://validator.w3.org/ 
-2. HTML spec, verschil tussen article en section => https://html.spec.whatwg.org/multipage/sections.html#the-article-element 
-3. Game voor het leren van Flexbox => https://flexboxfroggy.com/#nl  
+In dit deel worden alle resources getoond, gebruikt in de Blogsite (lessen 1 tm 5).
+
+### Algemeen
+- Validator voor het valideren van de HTML => https://validator.w3.org/ 
+- HTML spec, verschil tussen article en section => https://html.spec.whatwg.org/multipage/sections.html#the-article-element 
+- Game voor het leren van Flexbox => https://flexboxfroggy.com/#nl  
+
+### Les 1
+- Site voor het opzoeken van emoji's => https://emojipedia.org/ 
+- Afbeelding gebruikt bovenaan het artikel => https://i0.wp.com/marsadtv.com/wp-content/uploads/2021/11/Pikmin-Bloom-New-Game-From-Pokemon-Go-Developer-Launched-for.jpeg?fit=1200%2C675&ssl=1 
+- Artikel waarop Pikmin is gebaseerd => https://www.iculture.nl/nieuws/pikmin-bloom-downloaden/ 
+
+### Les 2
+- Audio gebruikt voor Pikmin => https://www.youtube.com/watch?v=eMd5GUGGH4M&list=PL177585733449249C 
+- Video gebruikt voor Pikmin => https://www.youtube.com/watch?v=jp2StaIKZgk 
+- NVDA Screenreader die gebruikt wordt in de les => https://www.nvaccess.org/download/ 
+
+### Les 3
+- Video gebruikt voor Pokémon => https://www.youtube.com/watch?v=Q9s-dozmNWM 
+- Artikel gebruikt voor Pokémon => https://myprivacy.dpgmedia.nl/consent/?siteKey=ucf98legs1caotgh&callbackUrl=https%3A%2F%2Fwww.nu.nl%2Fprivacy-gate%2Faccept%3FredirectUri%3Dhttps%253A%252F%252Fwww.nu.nl%252Freviews%252F6168321%252Freview-pokemon-brilliant-diamond-en-shining-pearl-zijn-vooral-heel-ouderwets.html 
+- Afbeelding gebruikt voor Pokémon => https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.hdzkQPPEwT5uNpDaOgAhlgHaEK%26pid%3DApi&f=1 
+- Afbeelding gebruikt voor Yoshi => https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.IeKoupaG2Fd0XBjAxixZhAHaEK%26pid%3DApi&f=1 
+- Video gebruikt voor Yoshi => https://www.youtube.com/watch?v=pOpRcgAvDZQ 
+- Artikel gebruikt voor Yoshi => https://pu.nl/artikelen/review/yoshis-woolly-world-review/ 
+
